@@ -14,8 +14,7 @@
 
 - 🔭 I’m currently working on [aiReplica.xyz](https://www.aireplica.xyz/) (character replica chat platform web app).
 - 🌱 I’m currently learning Langchain, vector DBs and LLM embedding performance.
-- 🤔 I’m looking for help with matering RSC and building next gen composability in React and Next.js.
-- 💬 Ask me about JavaScript, React, and LLMs.
+- 💬 Ask me about JavaScript, React, frontend / backend dev and LLMs.
 - 📫 How to reach me: jasonmai.dev@gmail.com
 - ⚡ Fun fact: I taught Trig / PreCalculus in highschool... while in highschool(11th grade).
 
