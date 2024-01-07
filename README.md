@@ -2,7 +2,8 @@
 
 My Top Technologies:
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=61DAFB)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,html,css)](https://skillicons.dev)
 
