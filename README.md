@@ -8,14 +8,19 @@
 ![NextJs](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
+
+- 🔭 I’m currently working on aiReplica.xyz (character replica chat platform web app).
+- 🌱 I’m currently learning Langchain, vector DBs and LLM embedding performance.
+- 🤔 I’m looking for help with matering RSC and building next gen composability in React and Next.js.
+- 💬 Ask me about JavaScript, React, and LLMs.
+- 📫 How to reach me: jasonmai.dev@gmail.com
+- ⚡ Fun fact: I taught Trig / PreCalculus in highschool... while in highschool(11th grade).
+
+#### Connect with me:
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+
+
 #### Languages & Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,prisma,materialui,tailwind,bootstrap,mongodb,mysql,aws,vite,styledcomponents,jest,html,css,sass,figma,vscode,git,postman,vercel,netlify,docker)](https://skillicons.dev)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
