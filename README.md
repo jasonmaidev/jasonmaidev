@@ -26,4 +26,4 @@
 
 #### Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,prisma,materialui,tailwind,bootstrap,mongodb,mysql,aws,vite,styledcomponents,jest,html,css,sass,figma,vscode,git,postman,vercel,netlify,docker)](https://skillicons.dev)
+[![Go to top](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,prisma,materialui,tailwind,bootstrap,mongodb,mysql,aws,vite,styledcomponents,jest,html,css,sass,figma,vscode,git,postman,vercel,netlify,docker)](https://skillicons.dev)](#)
