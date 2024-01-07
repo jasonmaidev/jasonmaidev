@@ -1,6 +1,6 @@
 ### Hi👋 I'm Jason Mai
 
-##My Top Technologies:
+## My Top Technologies:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=242526)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
