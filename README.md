@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Langchain, vector DBs and LLM embedding performance enhancement.
 - 💬 Ask me about JavaScript, React, frontend / backend developement.
 - 📫 How to reach me: jasonmai.dev@gmail.com
-- ⚡ Fun fact: I taught Trig / PreCalculus in highschool, while in highschool(11th grade) for student credits at the campus store.
+- ⚡ Fun fact: I taught Trig / PreCalculus in highschool, while in highschool (11th grade).
 
 #### Connect with me:
 
