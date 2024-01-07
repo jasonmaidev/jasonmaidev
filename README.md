@@ -1,6 +1,6 @@
 ### Hi👋 I'm Jason Mai
 
-#### My Top Technologies:
+#### Top Technologies:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=242526)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -10,7 +10,7 @@
 
 #### Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,prisma,materialui,tailwind,bootstrap,mongodb,mysql,aws,vite,styledcomponents,jest,html,css,sass,figma,vscode,git,postman,vercel,netlify,docker)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
