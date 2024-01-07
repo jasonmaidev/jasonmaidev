@@ -12,7 +12,7 @@
 [![Go to top](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
 
-- 🔭 I’m currently working on [aiReplica.xyz](https://www.aireplica.xyz/) (character replica chat platform web app).
+- 🔭 I’m currently working on [aiReplica.xyz](https://www.aireplica.xyz/) (character replica chat platform).
 - 🌱 I’m currently learning Langchain, vector DBs and LLM embedding performance enhancement.
 - 💬 Ask me about JavaScript, React, frontend / backend developement.
 - 📫 How to reach me: jasonmai.dev@gmail.com
