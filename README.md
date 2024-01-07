@@ -1,4 +1,4 @@
-## Hi👋 I'm Jason Mai
+## Hey there👋 I'm Jason Mai
 <a id="top"></a>
 
 ### An Experienced Full-Stack Engineer.
