@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on [aiReplica.xyz](https://www.aireplica.xyz/) (character replica chat platform).
-- 🌱 I’m currently learning Ai web dev(Langchain, vector DBs, LLM fine-tuning, infra cost optimization) and graphQL.
+- 🌱 I’m currently learning Ai web dev(Langchain, vector DBs, infra compute cost optimization) and graphQL.
 - 💬 Ask me about JavaScript, React, frontend / backend developement.
 - 📫 How to reach me: jasonmai.dev@gmail.com
 - ⚡ Fun facts: I taught Trig / PreCalculus in highschool, while in highschool (11th grade). I do not drink, smoke, or take drugs of any sort. My only escapes are programming and Dota 2.
