@@ -13,7 +13,7 @@
 
 
 - 🔭 I’m currently working on [aiReplica.xyz](https://www.aireplica.xyz/) (character replica chat platform).
-- 🌱 I’m currently learning advance SQL, Langchain, vector DBs, and infra compute cost optimization.
+- 🌱 I’m currently learning advanced SQL, Langchain, and infra compute cost optimization.
 - 💬 Ask me about JavaScript, React, frontend / backend developement.
 - 📫 How to reach me: jasonmxdev@gmail.com
 - ⚡ Fun facts: I taught Trig / PreCalculus in highschool, while in highschool (11th grade). I do not drink, smoke, or take drugs of any sort. My only escapes are programming and Dota 2.
