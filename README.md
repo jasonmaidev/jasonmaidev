@@ -1,7 +1,7 @@
 ## Hey there👋 I'm Jason Mai
 <a id="top"></a>
 
-### An Experienced Full-Stack Engineer with a Design Background.
+### An Experienced Full-Stack Engineer with a UI / UX Design Background.
 
 #### Top Technologies:
 
