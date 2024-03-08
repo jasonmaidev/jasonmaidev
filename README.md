@@ -18,10 +18,6 @@
 - 📫 How to reach me: jasonmxdev@gmail.com
 - ⚡ Fun facts: I taught Trig / PreCalculus in highschool, while in highschool (11th grade). I do not drink, smoke, or take drugs of any sort. My only escapes are programming and Dota 2.
 
-#### Connect with me:
-
-[![Go to JasonMai Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jasonmai-dev/)
-
 
 #### Languages & Tools:
 
