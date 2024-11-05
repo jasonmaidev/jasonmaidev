@@ -1,7 +1,7 @@
 ## Hey there👋 I'm Jason Mai
 <a id="top"></a>
 
-### Full-Stack Engineer（React + NodeJS) with a 10-Year UI / UX Design Background. I build cleverly prompt-engineered Ai applications at work, for fun, and for personal use.
+### Full-Stack Software / Ai Engineer（React + NodeJS) with a 10-Year UI / UX Design Background. I build cleverly prompt-engineered Ai applications at work, for fun, and for personal use.
 
 #### Top Technologies:
 
@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on something exciting in real-time analytics.
 - 🌱 I’m currently learning advanced SQL and relational DB.
-- 💬 Ask me about JavaScript, React, frontend / backend developement.
+- 💬 Ask me about JavaScript, React, frontend / backend developement, and LLMs.
 - 📫 How to reach me: jasonmxdev@gmail.com
 
 
