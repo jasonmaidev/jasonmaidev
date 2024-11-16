@@ -20,4 +20,4 @@
 
 #### Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,prisma,materialui,tailwind,bootstrap,mongodb,mysql,aws,vite,styledcomponents,jest,html,css,sass,figma,vscode,git,postman,vercel,netlify,docker)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,prisma,materialui,tailwind,bootstrap,mongodb,aws,vite,styledcomponents,jest,html,css,sass,figma,vscode,git,postman,vercel,netlify,docker)](#)
