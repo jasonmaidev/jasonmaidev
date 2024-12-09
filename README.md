@@ -13,11 +13,11 @@
 
 
 - 🔭 I’m currently working on something exciting in real-time analytics.
-- 🌱 I’m currently learning advanced SQL and relational DB.
-- 💬 Ask me about JavaScript, React, frontend / backend developement, and LLMs.
+- 🌱 I’m currently learning Langchain and Ai-agent development.
+- 💬 Ask me about JavaScript, React, frontend, UI / UX, and LLMs.
 - 📫 How to reach me: jasonmxdev@gmail.com
 
 
 #### Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,prisma,materialui,tailwind,bootstrap,mongodb,aws,vite,styledcomponents,jest,html,css,sass,figma,vscode,git,postman,vercel,netlify,docker)](#)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,express,prisma,materialui,tailwind,bootstrap,mongodb,aws,vite,styledcomponents,jest,html,css,sass,figma,vscode,git,postman,vercel,netlify)](#)
