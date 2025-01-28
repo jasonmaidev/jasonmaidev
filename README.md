@@ -12,10 +12,11 @@
 [![Go to top](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
 
 
-- 🔭 I’m currently working on something exciting in real-time analytics.
+- 🔭 I’m currently working on next-gen underwritting tech.
 - 🌱 I’m currently learning Langchain and Ai-agent development.
 - 💬 Ask me about JavaScript, React, frontend, UI / UX, and LLMs.
 - 📫 How to reach me: jasonmxdev@gmail.com
+- Fun facts: I taught Trig / Pre-Calculus in highschool...while in highschool.
 
 
 #### Languages & Tools:
