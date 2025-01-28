@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Langchain and Ai-agent development.
 - 💬 Ask me about JavaScript, React, frontend, UI / UX, and LLMs.
 - 📫 How to reach me: jasonmxdev@gmail.com
-- Fun facts: I taught Trig / Pre-Calculus in highschool...while in highschool.
+- Fun fact: I taught Trig / Pre-Calculus in highschool ...while in highschool.
 
 
 #### Languages & Tools:
